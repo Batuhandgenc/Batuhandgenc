@@ -1,6 +1,6 @@
 # 🍄 Hello Dear All !
 
-- I am Seyda. 
+- I am Batuhan. 
 - I think the README files make Github a more social place. 
 - Then if you want to know more about me, you can read here.
 
