@@ -42,7 +42,7 @@
 - Frontend : HTML, CSS, Javascript, React.js
 - Backend : PHP, Java, Docker, Elastic Search,Kubernetes (MVC/Web API)
 - Databases : Postgre SQL,SQL, MSSQL, Mongo DB
-- Mobile : Java, Android Studio
+- Mobile : Java, Android Studio.
 - Other : Intellij, Clisp, All Adobe Graphic Software
 
 ## 💼 Work Preferences 
